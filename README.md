@@ -8,13 +8,13 @@ Our primary focus for this project revolves around the rigorous testing of both 
 
 # Contributors
 
-- 6388021 Thanawat Kanjanapoo
-- 6388090 Kaewalin Limpremwattana    
-- 6388110 Punnavich Thanormvongse
-- 6388113 Poomrapee Wareeboutr        
-- 6388128 Thanakorn Charoenritthitham       
-- 6388129 Supawit Phimonjit
-- 6388134 Sutthiphon Thankam
+- Thanawat Kanjanapoo ([GitHub](https://github.com/sRubyy))
+- Kaewalin Limpremwattana
+- Punnavich Thanormvongse ([GitHub](https://github.com/Lemonnn11))
+- Poomrapee Wareeboutr (Me)
+- Thanakorn Charoenritthitham ([GitHub](https://github.com/tnktian))
+- Supawit Phimonjit ([GitHub](https://github.com/Twans99))
+- Sutthiphon Thankam
 
 # How To Execute Unit Tests
 
