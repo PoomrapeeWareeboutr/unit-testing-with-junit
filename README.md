@@ -1,6 +1,6 @@
 # Project Overview
 
-The project that we selected to implement for Project 1 is Enterprise project tracker which the website aims to track commits done by employees after getting assigned to a couple of projects by their managers.
+The project that we selected to implement for unit testing is the enterprise project tracker (original [here](https://github.com/SelimHorri/project-tracking-system-backend-app)) which the website aims to track commits done by employees after getting assigned to a couple of projects by their managers.
 
 The website has been constructed using the Spring Boot MVC framework and utilizes Thymeleaf as the templating engine, all of which is implemented in the Java programming language.
 
